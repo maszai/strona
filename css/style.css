@@ -1,0 +1,21 @@
+nav.navbar {
+	background-color: #293247;
+}
+
+.theme {
+	background-color: #eff4ff;
+	height: 250px;
+	padding-top: 100px;
+}
+
+.education {
+	padding-top: 50px;
+}
+
+.experience {
+	padding-top: 50px;
+}
+
+.hobby {
+	padding-top: 50px;
+}
