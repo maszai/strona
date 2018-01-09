@@ -1,21 +1,60 @@
-nav.navbar {
-	background-color: #293247;
-}
-
 .theme {
 	background-color: #eff4ff;
 	height: 250px;
-	padding-top: 100px;
+	padding: 5%;
+}
+
+.justify-content-center {
+	margin-left: -15px;
+	width: calc(100% + 30px);
 }
 
 .education {
 	padding-top: 50px;
+	margin-left: 50px;
+	margin-right: 20px;
 }
 
 .experience {
 	padding-top: 50px;
+	margin-left: 50px;
+	margin-right: 20px;
 }
 
 .hobby {
 	padding-top: 50px;
+	margin-left: 50px;
+	margin-right: 20px;
+}
+
+.tlo {
+	height: 940px;
+	background-color: #E6E8FA;
+}
+
+.login {
+	padding-top: 100px;
+}
+
+.pwd {
+	margin-top: -40px;
+	margin-bottom: 30px;
+}
+
+.btn-primary {
+	margin-top: 20px;
+	border-color: transparent;
+}
+
+.menu {
+	padding-top: 30px;
+	margin-left: -20px;
+}
+
+.nav2 {
+	padding-top: 20px;
+}
+
+.nav3 {
+	padding-top: 20px;
 }
