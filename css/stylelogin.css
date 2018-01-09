@@ -1,0 +1,15 @@
+	background-color: #E6E8FA;
+
+.login {
+	padding-top: 100px;
+}
+
+.pwd {
+	margin-top: -40px;
+	margin-bottom: 30px;
+}
+
+.btn-primary {
+	margin-top: 20px;
+	border-color: transparent;
+}
