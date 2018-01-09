@@ -1,4 +1,6 @@
-background-color: #E6E8FA;
+body {
+	background-color: #E6E8FA;
+}
 
 .login {
 	padding-top: 100px;
